@@ -1,4 +1,4 @@
-###Hi there 👋 I am a Full Stack Developer from India. I love to contribute to open source projects and work on my personal indie projects.
+### Hi there 👋 I am a Full Stack Developer from India. I love to contribute to open source projects and work on my personal indie projects.
 
 - 🔭 I’m currently working on [TopDevs](https://github.com/topdevs-in)
 - 🌱 I’m currently learning Golang and Scaling Distributed Systems.
