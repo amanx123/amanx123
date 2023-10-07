@@ -17,3 +17,4 @@
  + **AI:** `OpenAi, Replicate, HuggingFace, Tensorflow`
  + **Web3:** `Remix, Web3js, Etherjs`
 **********
+#### Some past Projects:
