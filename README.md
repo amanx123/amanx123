@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on [NomadsFuel](https://github.com/amanx123/NomadsFuel), [NightSpace](https://github.com/amanx123/NightSpace)
 - 💬 Ask me about Full-Stack Development, Ai & Web3
 - 📫 How to reach me: [E-Mail](mailto:amanagarwalx123@gmail.com)
-- ⚡ Fun fact: I love to learn about Cosmos 🪐 , do Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
+- ⚡ Fun fact: I love to learn and explore about Cosmos 🪐 , do Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
 *********
 #### Tech Stack I Mostly Work With:
  + **Languages:** `Java, Javascript, Typescript, Python, Golang, Solidity`
