@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am a Full Stack Developer from India. I love to contribute to open source projects and work on my personal indie projects.
 
 <!--
 **amanx123/amanx123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
