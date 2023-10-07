@@ -6,7 +6,7 @@
 - 💬 Ask me about Full-Stack Development, Ai & Web3
 - 📫 How to reach me: [E-Mail](mailto:amanagarwalx123@gmail.com)
 - ⚡ Fun fact: I love to learn about Cosmos 🪐 , do Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
-
+*********
 #### Tech Stack I Mostly Work With:
  + **Languages:** `Java, Javascript, Typescript, Python, Golang, Solidity`
  + **Frontend:** `Reactjs, Nextjs, Redux, Tailwind`
