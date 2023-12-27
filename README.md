@@ -8,13 +8,12 @@
 - ⚡ Fun fact: I love to learn about Cosmos 🪐 , do Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
 *********
 #### Tech Stack I Mostly Work With:
- + **Languages:** `Java, Javascript, Typescript, Python, Golang, Solidity`
+ + **Languages:** `Java, Javascript, Typescript, Python, Golang`
  + **Frontend:** `Reactjs, Nextjs, Redux, Tailwind`
  + **Backend:** `Node/Express, FastApi`
- + **DB:** `PostGreSQL, MongoDb, Redis, Firebase, Supabase`
+ + **DB:** `PostGreSQL, MongoDb, Redis, Firebase`
  + **Infra:** `AWS, Docker, CI/CD`
- + **Tests:** `Jest, Cypress, Mocha etc`
+ + **Tests:** `Jest, Playwright, Mocha etc`
  + **AI:** `OpenAi, Replicate, HuggingFace, Tensorflow`
- + **Web3:** `Remix, Web3js, Etherjs`
 **********
 #### **Some past Projects:**
