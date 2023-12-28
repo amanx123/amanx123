@@ -17,3 +17,4 @@
  + **AI:** `OpenAi, Replicate, HuggingFace, Tensorflow`
 **********
 #### **Some past Projects:**
+- React app to check typing speed [typerx](https://typerxx.netlify.app)
