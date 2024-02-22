@@ -8,13 +8,10 @@
 - ⚡ Fun fact: I love to learn about Cosmos 🪐 , tiken with Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
 *********
 #### Tech Stack I Mostly Work With:
- + **Languages:** `Java, Javascript, Typescript, Python, Golang`
+ + **Languages:** `Javascript, Typescript, Python, Golang, Java`
  + **Frontend:** `Reactjs, Nextjs, Redux, Tailwind`
  + **Backend:** `Node/Express, FastApi`
  + **DB:** `PostGreSQL, MongoDb, Redis, Firebase`
- + **Infra:** `AWS, Docker, CI/CD`
- + **Tests:** `Jest, Playwright, Mocha etc`
- + **AI:** `OpenAi, Replicate, HuggingFace, Tensorflow`
 **********
 #### **Some past Projects:**
 - React app to check typing speed [TyperX](https://typerxx.netlify.app)
