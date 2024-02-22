@@ -1,11 +1,11 @@
-### Hi I am Aman Agarwal from India
+### Hi I'am Aman Agarwal from India.
 
-- 🔭 I’m currently working on [TopDevs](https://github.com/topdevs-in)
-- 🌱 I’m currently learning Golang and Distributed Systems.
+- 🔭 I’m currently building [TopDevs](https://github.com/topdevs-in)
+- 🌱 I’m learning Golang and Distributed Systems.
 - 👯 I’m looking to collaborate on [NightSpace](https://github.com/amanx123/NightSpace)
-- 💬 Ask me about Full-Stack Development, Ai & Web3
+- 💬 Ask me about Full-Stack Development, Ai & Web3.
 - 📫 How to reach me: [E-Mail](mailto:amanagarwalx123@gmail.com)
-- ⚡ Fun fact: I love to learn about Cosmos 🪐 , do Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
+- ⚡ Fun fact: I love to learn about Cosmos 🪐 , tiken with Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
 *********
 #### Tech Stack I Mostly Work With:
  + **Languages:** `Java, Javascript, Typescript, Python, Golang`
