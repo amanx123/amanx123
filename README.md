@@ -1,4 +1,4 @@
-### Hi there 👋 I am a Full Stack Developer from India with a strong passion for startups. I love to contribute to open source projects and work on my personal indie projects.
+### Hi I am Aman Agarwal from India
 
 - 🔭 I’m currently working on [TopDevs](https://github.com/topdevs-in)
 - 🌱 I’m currently learning Golang and Distributed Systems.
