@@ -1,8 +1,7 @@
 ### Hi I'am Aman Agarwal from India.
 
 - 🔭 I’m currently building [TopDevs](https://github.com/topdevsin)
-- 🌱 I’m learning Golang and Distributed Systems.
-- 👯 I’m looking to collaborate on [NightSpace](https://github.com/amanx123/NightSpace)
+- 🌱 I’m learning more about Ai, System Design and Distributed Systems.
 - 💬 Ask me about Full-Stack Development, Ai & Web3.
 - 📫 How to reach me: [E-Mail](mailto:amanagarwalx123@gmail.com)
 - ⚡ Fun fact: I love to learn about Cosmos 🪐 , tiken with Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
@@ -13,5 +12,4 @@
  + **Backend:** `Node/Express, FastApi`
  + **DB:** `PostGreSQL, MongoDb, Redis, Firebase`
 **********
-#### **Some past Projects:**
-- React app to check typing speed [TyperX](https://typerxx.netlify.app)
+#### ** Checkout my work : [Website](https://aman.bio) **
