@@ -12,4 +12,4 @@
  + **Backend:** `Node/Express, FastApi`
  + **DB:** `PostGreSQL, MongoDb, Redis, Firebase`
 **********
-#### ** Checkout my work : [Website](https://aman.bio) **
+#### Checkout my work : [Website](https://aman.bio)
