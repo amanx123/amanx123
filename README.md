@@ -1,4 +1,4 @@
-### Hi I'am Aman Agarwal from India.
+### Hi I'am Aman Agarwal , a Software Engineer from India building/breaking stuff.
 
 - 🔭 I’m currently building [TopDevs](https://github.com/topdevsin)
 - 🌱 I’m learning more about Ai, System Design and Distributed Systems.
