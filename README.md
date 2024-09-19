@@ -4,7 +4,7 @@
 - 🌱 I’m learning more about Ai, System Design and Distributed Systems.
 - 💬 Ask me about web dev, mobile dev, Ai & Web3.
 - 📫 How to reach me: [E-Mail](mailto:amanagarwalx123@gmail.com)
-- ⚡ Fun fact: I love to learn about Cosmos 🪐 , tiken with Filmmaking/Photography 📸 , Backpacking/Nomadism 🎒
+- ⚡ Fun fact: I love to learn and explore about Cosmos 🪐 , do Filmmaking/Photography 📸 , Backpacking 🎒
 *********
 #### Tech Stack I Mostly Work With:
  + **Languages:** `Javascript, Typescript, Python, Golang, Java`
