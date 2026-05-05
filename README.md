@@ -58,10 +58,11 @@
 <details>
 <summary>Random Facts</summary>
 
-- Treat AI agents as "slot machines for programmers"
-- 
-- 
-- Gym - Travel - Photography enthusiast (when not coding)
-- 
+- AI + Taste + Creativity is the only moat that matters.
+- Shipping beats perfect.
+- Naval and Goggins are the OG's.
+- Vision is remembering the future so clearly that reality feels late.
+- I usually build around my own ideas and problems that I want to solve or make exist.
+- Gym - Travel - Photography enthusiast (when not coding).
 
 </details>
